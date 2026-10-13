@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #212529;
+}
+
+.app-background {
+  background: #f4f7fb;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.form-control,
+.form-select {
+  min-height: 42px;
+}
+
+.table th,
+.table td {
+  white-space: nowrap;
+}
+
+.btn {
+  border-radius: 6px;
+}
